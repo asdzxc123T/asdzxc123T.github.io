@@ -63,7 +63,7 @@ function App() {
 
   const certificates = [
     {
-      title: 'Certificate in Computer Utilization Level 2',
+      title: 'Computer Specialist in Spreadsheet & Database Level-2',
       date: 'Feb 2024',
       issuer: 'Korea Chamber of Commerce and Industry'
     },
